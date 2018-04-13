@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               devoluntarios
 tagline:             Grupo de pessoas voluntárias com foco no desenvolvimento de soluções de tecnologia para comunidades, ONGs, entidades e organizações sem fins lucrativos.
-url:                 https://deevoluntarios.com.br
+url:                 https://devoluntarios.com.br
 paginate:            1
 baseurl:             ""
 
@@ -31,6 +31,6 @@ github:              devoluntarios
 discord:             https://discord.gg/gFWCz
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
