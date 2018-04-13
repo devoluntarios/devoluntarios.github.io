@@ -1,0 +1,36 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               devoluntarios
+tagline:             Grupo de pessoas voluntárias com foco no desenvolvimento de soluções de tecnologia para comunidades, ONGs, entidades e organizações sem fins lucrativos.
+url:                 https://deevoluntarios.com.br
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              devoluntarios
+  url:               https://twitter.com/devoluntarios1
+  email:             devoluntarios@gmail.com
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://github.com/devoluntarios
+google_analytics:    UA-3363703-15
+twitter:             devoluntarios1
+github:              devoluntarios
+discord:             https://discord.gg/gFWCz
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
